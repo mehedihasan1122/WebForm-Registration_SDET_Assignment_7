@@ -20,6 +20,7 @@
 ## Registration Form:
 
 
-![registrationForm](https://github.com/user-attachments/assets/1134db78-48f6-4829-84d9-02afb858856a)
+![registrationForm](https://github.com/user-attachments/assets/cab137ce-7875-45b7-b586-eae6ef4bbca4)
+
 
 
