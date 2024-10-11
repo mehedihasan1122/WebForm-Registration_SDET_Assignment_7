@@ -1,6 +1,7 @@
 # Project Title: WebForm  and Registration Form Automation using JUnit and Selenium.
 
-## Project Summary: Here is the Two different Forms Automation those are Automated Using Junit & Selenium . And Generate Report using gradle. select locator and findout the required field like Firstname, Lastname, UserEmail, Gender, Date of Birth, Nationality, Phone, Country(Bangladesh), Terms & Condition and Then click on submit button also Assert with Submition Value.
+## Project Summary: 
+### Here is the Two different Forms Automation those are Automated Using Junit & Selenium . And Generate Report using gradle. select locator and findout the required field like Firstname, Lastname, UserEmail, Gender, Date of Birth, Nationality, Phone, Country(Bangladesh), Terms & Condition and Then click on submit button also Assert with Submition Value.
 
 ## Prerequisites:
 - JDK
